@@ -20,7 +20,7 @@ This repo includes:
 * 🧩 Simple practice scripts
 * 📂 Organized folders by topics
 * 📈 Beginner-friendly data projects
-* 🛠️ Work-in-progress code (yes, even the messy parts — that’s how we grow!)
+* 🛠️ Work-in-progress code
 
 ## 📌 Goals
 
@@ -44,5 +44,26 @@ This is a personal learning space, but if you have any suggestions, ideas, or ju
 ## 📝 Notes
 
 Some of this code may be basic, unfinished, or experimental — and that’s okay, small steps are also steps.
+
+
+# ✅ Learning Progress
+
+This checklist tracks the topics I'm learning as I work toward mastering Python and preparing for a career in Data Science. I explain more about each topic in their README. 
+
+### 🧠 01. Python Basics
+### 🔁 02. Control Flow
+### 🧰 03. Data Structures
+### 🔧 04. Functions & Modules
+### 📁 05. File Handling
+### 🧪 06. Error Handling
+### 🧱 07. Object-Oriented Programming (OOP)
+### 🔢 08. NumPy Basics
+### 🐼 09. pandas Basics
+### 📊 10. Data Visualization
+### 🧠 11. Algorithms & Problem Solving
+### 🛠️ 12. Mini Projects (Portfolio)
+
+
+✅ *I’ll update this list as I make progress. Feel free to explore my folders and notebooks for detailed code and explanations!*
 
 
