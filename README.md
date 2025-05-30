@@ -2,6 +2,7 @@
 
 Welcome to my Python learning journey!
 This repository is a collection of my projects, exercises, and notes as I explore Python — from the basics to more complex topics.
+For those that are also learning, I would like to remind you: AIs are very helpful, but you should use them as a crutch, not to completely do your work. Programming is like riding a bike — practice will lead you to perfection.
 
 ## 🚀 About This Repository
 
